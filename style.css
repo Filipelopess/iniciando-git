@@ -1,0 +1,53 @@
+body{
+    background: black;
+}
+
+
+h1{
+    margin-left: 10px;
+    font-weight: normal;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-family:'Raleway', sans-serif;
+    font-weight: 400;
+}
+
+a:visited{
+    text-decoration: none;
+    color: black;
+}
+
+#cartao{
+    box-sizing: border-box;
+    padding: 1px 20px;
+    margin: auto;
+    margin-top: 10%;
+    width: 400px;
+    height: 200px;
+    background-image: url(./Imagens/backgorund.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+#insta{
+    list-style-image: url(./Imagens/Insta.png);
+
+}
+
+#twiter{
+    list-style-image: url(./Imagens/Twitter.png);
+
+
+}
+
+#youtube{
+    list-style-image: url(./Imagens/Youtube.png);
+
+
+}
